@@ -49,56 +49,56 @@ class ProductSeeder extends Seeder
                 'price'=>'1500',
                 'description'=>'Dont make me think',
                 'category'=>'book',
-                'gallery'=>'https://image.freepik.com/free-vector/back-school-set-icons_24640-46562.jpg'
+                'gallery'=>'https://image.shutterstock.com/image-photo/hyderabadindianovember-17hindu-god-hanuman-idol-600w-518636092.jpg'
             ],
             [
                 'name'=>'Dont make me think',
                 'price'=>'1500',
                 'description'=>'Dont make me think',
                 'category'=>'book',
-                'gallery'=>'https://image.freepik.com/free-vector/back-school-set-icons_24640-46562.jpg'
+                'gallery'=>'https://upload.wikimedia.org/wikipedia/commons/0/0e/Ramayan.jpg'
             ],
             [
                 'name'=>'Dont make me think',
                 'price'=>'1500',
                 'description'=>'Dont make me think',
                 'category'=>'book',
-                'gallery'=>'https://image.freepik.com/free-vector/back-school-set-icons_24640-46562.jpg'
+                'gallery'=>'https://upload.wikimedia.org/wikipedia/commons/8/82/Bhagvad_Gita.jpg'
             ],
             [
                 'name'=>'Dont make me think',
                 'price'=>'1500',
                 'description'=>'Dont make me think',
                 'category'=>'book',
-                'gallery'=>'https://image.freepik.com/free-vector/back-school-set-icons_24640-46562.jpg'
+                'gallery'=>'https://image.shutterstock.com/image-vector/find-differences-educational-game-children-600w-1618369522.jpg'
             ],
             [
                 'name'=>'Dont make me think',
                 'price'=>'1500',
                 'description'=>'Dont make me think',
                 'category'=>'book',
-                'gallery'=>'https://image.freepik.com/free-vector/back-school-set-icons_24640-46562.jpg'
+                'gallery'=>'https://image.shutterstock.com/image-photo/collection-old-books-on-wooden-260nw-1563198145.jpg'
             ],
             [
                 'name'=>'Dont make me think',
                 'price'=>'1500',
                 'description'=>'Dont make me think',
                 'category'=>'book',
-                'gallery'=>'https://image.freepik.com/free-vector/back-school-set-icons_24640-46562.jpg'
+                'gallery'=>'https://www.krazyinlove.com/wp-content/uploads/2016/03/Love-At-First-Sight-Couples-Image-fgg324.jpg'
             ],
             [
                 'name'=>'Dont make me think',
                 'price'=>'1500',
                 'description'=>'Dont make me think',
                 'category'=>'book',
-                'gallery'=>'https://image.freepik.com/free-vector/back-school-set-icons_24640-46562.jpg'
+                'gallery'=>'https://www.krazyinlove.com/wp-content/uploads/2016/03/Women-Are-Ready-To-Love-At-First-Sight-fgg340.jpg'
             ],
             [
                 'name'=>'Dont make me think',
                 'price'=>'1500',
                 'description'=>'Dont make me think',
                 'category'=>'book',
-                'gallery'=>'https://image.freepik.com/free-vector/back-school-set-icons_24640-46562.jpg'
+                'gallery'=>'https://images.all-free-download.com/images/graphiclarge/child_and_books_208362.jpg'
             ]
         ]);
     }
