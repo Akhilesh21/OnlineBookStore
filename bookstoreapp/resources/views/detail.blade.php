@@ -8,7 +8,14 @@
 <div class="col-sm-6">
 <a href="/">Go Back</a>
 <h2>{{$product['name']}}</h2>
-
+<h3>Price: {{$product['price']}}</h3>
+<h4>Details: {{$product['description']}}</h4>
+<h4>category: {{$product['category']}}</h4>
+<br><br>
+<button class="btn btn-primary">ADD TO CART</button>
+<br><br>
+<button class="btn btn-success">BUY NOW</button>
+<br><br>
 </div>
 </div>
 </div>
