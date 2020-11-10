@@ -112,9 +112,23 @@ function orderPlace(Request $req){
          $order->address=$req->address;
          $order->save(); 
          Cart::where('user_id',$userId)->delete();
- }
+        }
       $req->input();
       return redirect('/');
-}
+    }
+    
+    function myOrders(){
+    //  dd('orders');
+     // echo "hello";
+      $userId=Session::get('user')['id'];
+      $orders = DB::table('orders')
+      
+      ->join('products','orders.product_id','=','products.id')
+      ->where('orders.user_id',$userId)
+      ->get();
+  
+    return view('myorders',['orders'=>$orders]);
+   }
+    
 
 }
